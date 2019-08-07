@@ -1,0 +1,9 @@
+.users {
+  text-align: center;
+  color: white;
+}
+
+.users div {
+  border-top: 2px solid white;
+  padding-top: 20px;
+}
